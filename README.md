@@ -1,1 +1,1 @@
-This is project to create a python application on Elastic Beanstalk
+This project is to create a python application on Elastic Beanstalk
